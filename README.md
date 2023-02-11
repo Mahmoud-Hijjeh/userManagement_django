@@ -12,7 +12,7 @@ A Django application that allows users to register, log in, reset, and change th
 - The back-end of the application is built using Django (Python Framework)
 
 ## URLs 🌍
-- `admin/`
+- `admin/` for administrative goal
 - `accounts/login/` for logging a user into your application 
 - `accounts/logout/` for logging a user out of your application
 - `accounts/password_change/` for changing a password 
@@ -54,6 +54,5 @@ This project is licensed under the [MIT License](LICENSE.md).
 ![4](https://user-images.githubusercontent.com/107920651/218275179-3e9670fe-3bc2-4e9e-bc43-0b02333288ba.PNG)
 ![5](https://user-images.githubusercontent.com/107920651/218275181-a85a94a9-d0f8-4579-8880-31601d7e715a.PNG)
 ![6](https://user-images.githubusercontent.com/107920651/218275184-95cfbfba-2dd0-4bf5-834b-95bd64c6073a.PNG)
-![7](https://user-images.githubusercontent.com/107920651/218275187-dbb46b0d-331c-4c3f-a4e8-45b3696e5621.PNG)
-![8](https://user-images.githubusercontent.com/107920651/218275190-940857ae-c5f9-4bcf-a6ba-e2dadc3cda9c.PNG)
-
+![7](https://user-images.githubusercontent.com/107920651/218275190-940857ae-c5f9-4bcf-a6ba-e2dadc3cda9c.PNG)
+![8](https://user-images.githubusercontent.com/107920651/218275187-dbb46b0d-331c-4c3f-a4e8-45b3696e5621.PNG)
